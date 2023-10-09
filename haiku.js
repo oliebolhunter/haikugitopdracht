@@ -20,9 +20,17 @@ function Haiku3(){
     console.log("How much more of it remains?");
     console.log("The night is brief.");
 }
+function Haiku4(){
+    console.log("haiku by:","Kobayashi Issa");
+    console.log("Don’t weep, insects");
+    console.log("Lovers, stars themselves,");
+    console.log("Must part.");
+}
+
 
 
 //laat de code hieronder met rust
 Haiku1()
 Haiku2()
 Haiku3()
+Haiku4()
