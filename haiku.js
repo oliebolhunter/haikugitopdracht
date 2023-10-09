@@ -20,6 +20,7 @@ function Haiku3(){
     console.log("How much more of it remains?");
     console.log("The night is brief.");
 }
+
 function Haiku4(){
     console.log("haiku by:","Kobayashi Issa");
     console.log("Don’t weep, insects");
@@ -27,6 +28,12 @@ function Haiku4(){
     console.log("Must part.");
 }
 
+    function Haiku5(){
+        console.log("haiku by:","Sonia Sanchez");
+        console.log("love between us is");
+        console.log("speech and breath. loving you is");
+        console.log("a long river running.");
+}
 
 
 //laat de code hieronder met rust
@@ -34,3 +41,4 @@ Haiku1()
 Haiku2()
 Haiku3()
 Haiku4()
+Haiku5()
